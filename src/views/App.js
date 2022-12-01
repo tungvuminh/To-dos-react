@@ -12,8 +12,6 @@ function App() {
         <p>
           To-dos
         </p>
-
-
         <ListTodo />
       </header>
       <ToastContainer
